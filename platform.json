@@ -54,7 +54,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/skywalk-software/mbed-os#f_improvements_for_teensy3_1_to_master"
+      "version": "https://github.com/skywalk-software/mbed-os#mbed-os-5.15"
     },
     "tool-teensy": {
       "type": "uploader",
